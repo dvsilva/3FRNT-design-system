@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project using figma prototype
 
 ## Getting Started
 
@@ -20,18 +20,15 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Figma
+[Prototype]([https://nextjs.org/docs/app/building-your-application/optimizing/fonts](https://www.figma.com/design/ba0Zg0xxsCBJT4cW0S8uFA/Cadastro?node-id=0-1&p=f&t=RejU74Da1Vlm9ny6-0))
 
-To learn more about Next.js, take a look at the following resources:
+## Screenshots
+### Project Running
+![Captura de tela 2025-04-29 223445](https://github.com/user-attachments/assets/49d2f88a-763e-4b69-90e5-ec916b4f715b)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Prototype Images
+![Captura de tela 2025-04-29 223534](https://github.com/user-attachments/assets/410bf48d-b825-4038-8e7f-d96b53bb7cc5)
+![Captura de tela 2025-04-29 223636](https://github.com/user-attachments/assets/99ed71c2-7c41-4fc4-a191-62276ab2e9ca)
+![Captura de tela 2025-04-29 223641](https://github.com/user-attachments/assets/59875f72-2f88-4dcb-9a4c-672881839af7)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# 3FRNT-design-system
