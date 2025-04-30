@@ -1,11 +1,13 @@
+"use client";
+
+import Button from "@/app/components/Button";
 import Header from "@/app/components/Header";
-import { Button } from "@mui/material";
 
 export default function Lista() {
   return (
     <div>
       <Header />
-      <Button>TESTE</Button>
+      <Button nameButton={"TESTE"} />
     </div>
   );
 }

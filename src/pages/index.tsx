@@ -1,6 +1,8 @@
 "use client";
-import Button from "./components/Button";
-import Header from "./components/Header";
+
+import Button from "@/app/components/Button";
+import Header from "@/app/components/Header";
+
 export default function Home() {
   return (
     <main className="flex flex-1 flex-col justify-center items-center bg-black-800 w-[100vw] h-[100vh]">
