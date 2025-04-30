@@ -21,7 +21,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Figma
-[Prototype](https://nextjs.org/docs/app/building-your-application/optimizing/fonts](https://www.figma.com/design/ba0Zg0xxsCBJT4cW0S8uFA/Cadastro?node-id=0-1&p=f&t=RejU74Da1Vlm9ny6-0)
+[Prototype](https://www.figma.com/design/ba0Zg0xxsCBJT4cW0S8uFA/Cadastro?node-id=0-1&p=f&t=RejU74Da1Vlm9ny6-0)
 
 ## Screenshots
 ### Project Running
